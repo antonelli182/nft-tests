@@ -2,7 +2,8 @@
   "dna": "1011000100",
   "name": "#1",
   "description": "NFT tests",
-  "image": "https://dev.kippcase.com/kpkzapp/Generator/1/",
+  "image": "https://github.com/antonelli182/nft-tests/raw/main/WhatsApp%20Image%202021-09-28%20at%2016.55.27.jpeg",
+  "animation_url": "https://dev.kippcase.com/kpkzapp/Generator/1/", 
   "edition": 1,
   "date": 1632905030031,
   "attributes": [
